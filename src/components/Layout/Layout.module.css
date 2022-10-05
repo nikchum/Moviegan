@@ -1,0 +1,31 @@
+.header {
+border-bottom: 3px var(--btn-primary) solid;
+}
+
+.nav {}
+
+.list {
+    margin: 0;
+    height: 50px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.item {}
+
+.link {
+    font-weight: 500;
+    font-size: 20px;
+    color: var(--text-grey);
+    transition: color 250ms linear;
+}
+
+.link:hover,
+.link:focus {
+    color: #ffffff;
+
+}
+

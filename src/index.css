@@ -1,0 +1,47 @@
+/* @import-normalize; bring in normalize.css styles */
+
+:root {
+  --bg-primary: #100e19;
+  --bg-secondary: #1d1a2b;
+  --bg-body:#2c1b3f;
+  --btn-primary: #ea003d;
+  --btn-hover: #f73a6c;
+  --text-white: #ffffff;
+  --text-grey: #bbbbbb;
+  --white: #ffffff;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bg-primary);
+  color: var(--text-grey);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul, li {
+list-style: none;
+padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  height: auto;
+/* width: 100%; */
+}
+
+
+.active {
+  color: #ffffff !important;
+}

@@ -1,0 +1,28 @@
+.list {
+    display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        row-gap: 70px;
+        column-gap: 30px;
+}
+
+.item {
+    max-width: 230px;
+}
+
+.img {
+    height: 350px;
+        width: 230px;
+        border-radius: 20px;
+}
+
+.name {
+    font-size: 18px;
+font-weight: 400;
+color: var(--text-white);
+}
+
+.char {
+    font-size: 16px;
+        font-weight: 400;
+     }
