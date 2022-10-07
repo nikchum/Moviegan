@@ -13,10 +13,7 @@ export const Reviews = () => {
   useEffect(() => {
     setIsLoading(true);
     getMovieReviewsById(movieId)
-      .then(({ data }) => {
-        console.log(data);
-        setData(data.results);
-      })
+      .then(({ data }) => setData(data.results))
       .catch(console.log)
       .finally(() => setIsLoading(false));
   }, [movieId]);

@@ -1,8 +1,6 @@
 .header {
-border-bottom: 3px var(--btn-primary) solid;
+    border-bottom: 3px var(--btn-primary) solid;
 }
-
-.nav {}
 
 .list {
     margin: 0;
@@ -11,10 +9,7 @@ border-bottom: 3px var(--btn-primary) solid;
     gap: 30px;
     justify-content: center;
     align-items: center;
-
 }
-
-.item {}
 
 .link {
     font-weight: 500;
@@ -26,6 +21,5 @@ border-bottom: 3px var(--btn-primary) solid;
 .link:hover,
 .link:focus {
     color: #ffffff;
-
 }
 

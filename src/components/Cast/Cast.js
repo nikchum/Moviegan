@@ -14,10 +14,7 @@ export const Cast = () => {
   useEffect(() => {
     setIsLoading(true);
     getMovieCastById(movieId)
-      .then(({ data: { cast } }) => {
-        // console.log(cast);
-        setData(cast);
-      })
+      .then(({ data: { cast } }) => setData(cast))
       .catch(console.log)
       .finally(() => setIsLoading(false));
   }, [movieId]);

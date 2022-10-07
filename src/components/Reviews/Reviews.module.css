@@ -1,14 +1,8 @@
-.list {}
-
-.item {
-
-}
-
 .title,
 .error {
     font-size: 20px;
     font-weight: 700;
-letter-spacing: 2px;
+    letter-spacing: 2px;
     color: var(--text-white);
 }
 

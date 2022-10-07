@@ -1,4 +1,3 @@
-/* @import-normalize; bring in normalize.css styles */
 
 :root {
   --bg-primary: #100e19;
@@ -13,8 +12,7 @@
 
 body {
   margin: 0;
-  font-family: Roboto,
-    sans-serif;
+  font-family: Roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--bg-primary);
@@ -23,12 +21,12 @@ body {
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  monospace;
 }
 
 ul, li {
-list-style: none;
-padding: 0;
+  list-style: none;
+  padding: 0;
 }
 
 a {
@@ -38,7 +36,6 @@ a {
 img {
   display: block;
   height: auto;
-/* width: 100%; */
 }
 
 
