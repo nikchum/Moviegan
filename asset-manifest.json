@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Moviegan/static/css/main.ffd47210.css",
-    "main.js": "/Moviegan/static/js/main.0bfe5778.js",
+    "main.js": "/Moviegan/static/js/main.15811204.js",
     "static/css/592.4a270783.chunk.css": "/Moviegan/static/css/592.4a270783.chunk.css",
     "static/js/592.428fa098.chunk.js": "/Moviegan/static/js/592.428fa098.chunk.js",
     "static/css/75.3f55fa72.chunk.css": "/Moviegan/static/css/75.3f55fa72.chunk.css",
@@ -15,7 +15,7 @@
     "static/js/569.4cc64d9d.chunk.js": "/Moviegan/static/js/569.4cc64d9d.chunk.js",
     "index.html": "/Moviegan/index.html",
     "main.ffd47210.css.map": "/Moviegan/static/css/main.ffd47210.css.map",
-    "main.0bfe5778.js.map": "/Moviegan/static/js/main.0bfe5778.js.map",
+    "main.15811204.js.map": "/Moviegan/static/js/main.15811204.js.map",
     "592.4a270783.chunk.css.map": "/Moviegan/static/css/592.4a270783.chunk.css.map",
     "592.428fa098.chunk.js.map": "/Moviegan/static/js/592.428fa098.chunk.js.map",
     "75.3f55fa72.chunk.css.map": "/Moviegan/static/css/75.3f55fa72.chunk.css.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.ffd47210.css",
-    "static/js/main.0bfe5778.js"
+    "static/js/main.15811204.js"
   ]
 }
