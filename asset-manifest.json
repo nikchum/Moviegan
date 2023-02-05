@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/Moviegan/static/css/main.ffd47210.css",
-    "main.js": "/Moviegan/static/js/main.15811204.js",
+    "main.js": "/Moviegan/static/js/main.0f0954ce.js",
     "static/css/592.4a270783.chunk.css": "/Moviegan/static/css/592.4a270783.chunk.css",
     "static/js/592.428fa098.chunk.js": "/Moviegan/static/js/592.428fa098.chunk.js",
     "static/css/75.3f55fa72.chunk.css": "/Moviegan/static/css/75.3f55fa72.chunk.css",
     "static/js/75.8f39e51c.chunk.js": "/Moviegan/static/js/75.8f39e51c.chunk.js",
     "static/css/855.e89f9d9a.chunk.css": "/Moviegan/static/css/855.e89f9d9a.chunk.css",
     "static/js/855.9ea62d35.chunk.js": "/Moviegan/static/js/855.9ea62d35.chunk.js",
-    "static/css/93.ac4a287b.chunk.css": "/Moviegan/static/css/93.ac4a287b.chunk.css",
+    "static/css/93.0535b135.chunk.css": "/Moviegan/static/css/93.0535b135.chunk.css",
     "static/js/93.855e6127.chunk.js": "/Moviegan/static/js/93.855e6127.chunk.js",
     "static/css/935.c310fe4d.chunk.css": "/Moviegan/static/css/935.c310fe4d.chunk.css",
     "static/js/935.4c99bd96.chunk.js": "/Moviegan/static/js/935.4c99bd96.chunk.js",
     "static/js/569.4cc64d9d.chunk.js": "/Moviegan/static/js/569.4cc64d9d.chunk.js",
     "index.html": "/Moviegan/index.html",
     "main.ffd47210.css.map": "/Moviegan/static/css/main.ffd47210.css.map",
-    "main.15811204.js.map": "/Moviegan/static/js/main.15811204.js.map",
+    "main.0f0954ce.js.map": "/Moviegan/static/js/main.0f0954ce.js.map",
     "592.4a270783.chunk.css.map": "/Moviegan/static/css/592.4a270783.chunk.css.map",
     "592.428fa098.chunk.js.map": "/Moviegan/static/js/592.428fa098.chunk.js.map",
     "75.3f55fa72.chunk.css.map": "/Moviegan/static/css/75.3f55fa72.chunk.css.map",
     "75.8f39e51c.chunk.js.map": "/Moviegan/static/js/75.8f39e51c.chunk.js.map",
     "855.e89f9d9a.chunk.css.map": "/Moviegan/static/css/855.e89f9d9a.chunk.css.map",
     "855.9ea62d35.chunk.js.map": "/Moviegan/static/js/855.9ea62d35.chunk.js.map",
-    "93.ac4a287b.chunk.css.map": "/Moviegan/static/css/93.ac4a287b.chunk.css.map",
+    "93.0535b135.chunk.css.map": "/Moviegan/static/css/93.0535b135.chunk.css.map",
     "93.855e6127.chunk.js.map": "/Moviegan/static/js/93.855e6127.chunk.js.map",
     "935.c310fe4d.chunk.css.map": "/Moviegan/static/css/935.c310fe4d.chunk.css.map",
     "935.4c99bd96.chunk.js.map": "/Moviegan/static/js/935.4c99bd96.chunk.js.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.ffd47210.css",
-    "static/js/main.15811204.js"
+    "static/js/main.0f0954ce.js"
   ]
 }
