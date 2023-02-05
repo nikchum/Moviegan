@@ -27,6 +27,12 @@
     display: flex;
 }
 
+@media screen and (max-width: 860px) {
+    .boxCard {
+        flex-direction: column;
+    }
+}
+
 .img {
     border-radius: 20px;
     margin-right: 30px;
@@ -88,4 +94,15 @@
 .linkInfo:hover,
 .linkInfo:focus {
     color: var(--text-white);
+}
+
+
+@media screen and (max-width: 860px) {
+    .boxCard {
+        flex-direction: column;
+    }
+
+    .img {
+        margin: 0 auto;
+    }
 }
